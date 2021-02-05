@@ -1,0 +1,2 @@
+click=com.github.tristest.spi.ClickEventListener
+close=com.github.tristest.spi.CloseEventListener
